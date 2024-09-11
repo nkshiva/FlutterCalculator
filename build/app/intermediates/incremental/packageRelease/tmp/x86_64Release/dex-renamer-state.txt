@@ -1,0 +1,4 @@
+#Wed Sep 11 19:36:18 IST 2024
+base.0=E\:\\flutr\\calculator\\calculator\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

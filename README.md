@@ -1,16 +1,15 @@
-# calculator
+Flutter Calculator Application
+A simple, responsive calculator app built using Flutter. This app is designed to function across Android and Windows devices, with a clean user interface and adherence to the BODMAS rule for calculations.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Responsive UI that works across multiple devices (Android and Windows).
+Supports basic arithmetic operations: addition, subtraction, multiplication, and division.
+Follows the BODMAS rule for accurate calculations.
+Customizable UI with distinct button colors:
+Numbers: Gray
+Operators (+, -, ×, ÷): Yellow
+Clear Button: Red
+Equals Button: Green
+A clear display area to show input and results.
+Rectangular buttons for easy interaction, with increased width and decreased height for better aesthetics.
+Optimized for different screen sizes.
